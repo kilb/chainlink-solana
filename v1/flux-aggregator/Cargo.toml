@@ -24,7 +24,7 @@ uint = "0.9"
 bytemuck = "1.7"
 
 [dev-dependencies]
-solana-program-test = "~1.7.11"
-solana-sdk = "~1.7.11"
+solana-program-test = "^1.7.11"
+solana-sdk = "^1.7.11"
 serde = "1"
 bincode = "1.3"
